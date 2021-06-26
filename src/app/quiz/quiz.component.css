@@ -1,0 +1,17 @@
+div{
+    margin:10px;
+    padding:10px;
+    /*border:1px solid;*/
+    font-family: Inspira Sans, sans-serif;
+}
+.question{
+    background-color : lightcoral;
+}
+
+.container{
+    background-color : papayawhip;
+}
+
+.button{
+    background-color   : orchid;
+}
